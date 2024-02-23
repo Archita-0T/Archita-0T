@@ -1,3 +1,4 @@
+![logo](https://github.com/Archita-0T/Archita-0T/blob/main/ban.png)
 <h1 align="center">Hi 👋, I'm Archita Tiwari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
