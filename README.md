@@ -1,13 +1,13 @@
 ![logo](https://github.com/Archita-0T/Archita-0T/blob/main/ban.png)
 <h1 align="center">Hi 👋, I'm Archita Tiwari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archita-0t&label=Profile%20views&color=0e75b6&style=flat" alt="archita-0t" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archita-0t" alt="archita-0t" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **DSA and backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Archita-0T](https://github.com/Archita-0T)
 
